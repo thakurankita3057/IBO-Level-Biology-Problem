@@ -8,8 +8,7 @@ This repository contains an original biology Olympiad problem designed to match 
 
 The problem integrates experimental datasets, quantitative reasoning, and multi-step biological inference.
 
-## Disclaimer
-This problem was independently authored and is **not part of any official IBO examination**.  
+## Disclaimer  
 It is provided solely as a demonstration of Olympiad-level problem design capability.
 
 ## Contents
